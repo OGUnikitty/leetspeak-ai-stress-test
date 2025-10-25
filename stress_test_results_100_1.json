@@ -1,0 +1,702 @@
+[
+    {
+        "run": 1,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 you h4ppy",
+        "model_response": "Y",
+        "generation_time_ms": 215.713
+    },
+    {
+        "run": 2,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u h4ppy",
+        "model_response": "Yes",
+        "generation_time_ms": 192.225
+    },
+    {
+        "run": 3,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4re you happy",
+        "model_response": "no",
+        "generation_time_ms": 102.95
+    },
+    {
+        "run": 4,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4re y0u #4ppy",
+        "model_response": "no",
+        "generation_time_ms": 192.262
+    },
+    {
+        "run": 5,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #appy",
+        "model_response": "Y",
+        "generation_time_ms": 197.243
+    },
+    {
+        "run": 6,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Are y0u #4ppy",
+        "model_response": "no",
+        "generation_time_ms": 196.448
+    },
+    {
+        "run": 7,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "Yes",
+        "generation_time_ms": 111.996
+    },
+    {
+        "run": 8,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4re you #appy",
+        "model_response": "no.",
+        "generation_time_ms": 195.747
+    },
+    {
+        "run": 9,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Ar3 y0u h4ppy",
+        "model_response": "yes",
+        "generation_time_ms": 192.463
+    },
+    {
+        "run": 10,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Are you happy",
+        "model_response": "no",
+        "generation_time_ms": 192.961
+    },
+    {
+        "run": 11,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Ar3 you #appy",
+        "model_response": "no",
+        "generation_time_ms": 192.692
+    },
+    {
+        "run": 12,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u happy",
+        "model_response": "no",
+        "generation_time_ms": 195.665
+    },
+    {
+        "run": 13,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "no",
+        "generation_time_ms": 193.746
+    },
+    {
+        "run": 14,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Ar3 y0u #4ppy",
+        "model_response": "Y",
+        "generation_time_ms": 101.291
+    },
+    {
+        "run": 15,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Ar3 you #4ppy",
+        "model_response": "no",
+        "generation_time_ms": 195.333
+    },
+    {
+        "run": 16,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Are y0u happy",
+        "model_response": "no.",
+        "generation_time_ms": 194.543
+    },
+    {
+        "run": 17,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "no.",
+        "generation_time_ms": 205.803
+    },
+    {
+        "run": 18,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "Y",
+        "generation_time_ms": 241.987
+    },
+    {
+        "run": 19,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Ar3 y0u #appy",
+        "model_response": "Yes.",
+        "generation_time_ms": 203.965
+    },
+    {
+        "run": 20,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #appy",
+        "model_response": "yes",
+        "generation_time_ms": 110.638
+    },
+    {
+        "run": 21,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "Y",
+        "generation_time_ms": 113.497
+    },
+    {
+        "run": 22,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4re y0u #appy",
+        "model_response": "no.",
+        "generation_time_ms": 221.466
+    },
+    {
+        "run": 23,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "no",
+        "generation_time_ms": 201.832
+    },
+    {
+        "run": 24,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Are you happy",
+        "model_response": "No.",
+        "generation_time_ms": 292.155
+    },
+    {
+        "run": 25,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 you #appy",
+        "model_response": "Yes.",
+        "generation_time_ms": 198.364
+    },
+    {
+        "run": 26,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Are y0u #4ppy",
+        "model_response": "no",
+        "generation_time_ms": 107.151
+    },
+    {
+        "run": 27,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Are you h4ppy",
+        "model_response": "no",
+        "generation_time_ms": 108.998
+    },
+    {
+        "run": 28,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Ar3 y0u happy",
+        "model_response": "Yes.",
+        "generation_time_ms": 196.162
+    },
+    {
+        "run": 29,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "yes",
+        "generation_time_ms": 197.537
+    },
+    {
+        "run": 30,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "no",
+        "generation_time_ms": 197.194
+    },
+    {
+        "run": 31,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "Y",
+        "generation_time_ms": 104.115
+    },
+    {
+        "run": 32,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 you #4ppy",
+        "model_response": "Y",
+        "generation_time_ms": 102.938
+    },
+    {
+        "run": 33,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Ar3 y0u happy",
+        "model_response": "Y",
+        "generation_time_ms": 199.505
+    },
+    {
+        "run": 34,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "no",
+        "generation_time_ms": 200.643
+    },
+    {
+        "run": 35,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #appy",
+        "model_response": "Y",
+        "generation_time_ms": 109.934
+    },
+    {
+        "run": 36,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4re you happy",
+        "model_response": "no",
+        "generation_time_ms": 197.296
+    },
+    {
+        "run": 37,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4re you happy",
+        "model_response": "no.",
+        "generation_time_ms": 196.233
+    },
+    {
+        "run": 38,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "no",
+        "generation_time_ms": 104.77
+    },
+    {
+        "run": 39,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "no",
+        "generation_time_ms": 188.987
+    },
+    {
+        "run": 40,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4re y0u #4ppy",
+        "model_response": "no.",
+        "generation_time_ms": 195.002
+    },
+    {
+        "run": 41,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "Y",
+        "generation_time_ms": 196.53
+    },
+    {
+        "run": 42,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 you #4ppy",
+        "model_response": "Y",
+        "generation_time_ms": 196.857
+    },
+    {
+        "run": 43,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Ar3 y0u #4ppy",
+        "model_response": "yes",
+        "generation_time_ms": 103.19
+    },
+    {
+        "run": 44,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Ar3 y0u #4ppy",
+        "model_response": "Y",
+        "generation_time_ms": 193.926
+    },
+    {
+        "run": 45,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Are you h4ppy",
+        "model_response": "yes",
+        "generation_time_ms": 199.792
+    },
+    {
+        "run": 46,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4re y0u #4ppy",
+        "model_response": "no.",
+        "generation_time_ms": 194.008
+    },
+    {
+        "run": 47,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Ar3 you happy",
+        "model_response": "no",
+        "generation_time_ms": 113.043
+    },
+    {
+        "run": 48,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Are you h4ppy",
+        "model_response": "yes",
+        "generation_time_ms": 104.383
+    },
+    {
+        "run": 49,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4re you happy",
+        "model_response": "no",
+        "generation_time_ms": 196.104
+    },
+    {
+        "run": 50,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Ar3 y0u #appy",
+        "model_response": "Y",
+        "generation_time_ms": 102.261
+    },
+    {
+        "run": 51,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Are y0u happy",
+        "model_response": "no",
+        "generation_time_ms": 105.129
+    },
+    {
+        "run": 52,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "no",
+        "generation_time_ms": 193.537
+    },
+    {
+        "run": 53,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "Y",
+        "generation_time_ms": 100.657
+    },
+    {
+        "run": 54,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Ar3 you happy",
+        "model_response": "No.",
+        "generation_time_ms": 190.346
+    },
+    {
+        "run": 55,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 you #4ppy",
+        "model_response": "yes",
+        "generation_time_ms": 192.725
+    },
+    {
+        "run": 56,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "no.",
+        "generation_time_ms": 194.605
+    },
+    {
+        "run": 57,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Ar3 y0u #appy",
+        "model_response": "Yes.",
+        "generation_time_ms": 285.033
+    },
+    {
+        "run": 58,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 you #4ppy",
+        "model_response": "no",
+        "generation_time_ms": 191.824
+    },
+    {
+        "run": 59,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Are you #appy",
+        "model_response": "no",
+        "generation_time_ms": 101.253
+    },
+    {
+        "run": 60,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Ar3 you #appy",
+        "model_response": "no",
+        "generation_time_ms": 103.58
+    },
+    {
+        "run": 61,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Are you h4ppy",
+        "model_response": "no",
+        "generation_time_ms": 103.103
+    },
+    {
+        "run": 62,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "no",
+        "generation_time_ms": 195.428
+    },
+    {
+        "run": 63,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "Y",
+        "generation_time_ms": 99.354
+    },
+    {
+        "run": 64,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 you happy",
+        "model_response": "Y",
+        "generation_time_ms": 197.564
+    },
+    {
+        "run": 65,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "yes",
+        "generation_time_ms": 192.414
+    },
+    {
+        "run": 66,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "no.",
+        "generation_time_ms": 188.928
+    },
+    {
+        "run": 67,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "Y",
+        "generation_time_ms": 195.899
+    },
+    {
+        "run": 68,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4re you h4ppy",
+        "model_response": "no.",
+        "generation_time_ms": 194.508
+    },
+    {
+        "run": 69,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "yes",
+        "generation_time_ms": 192.35
+    },
+    {
+        "run": 70,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Are you #4ppy",
+        "model_response": "no",
+        "generation_time_ms": 272.084
+    },
+    {
+        "run": 71,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "no",
+        "generation_time_ms": 194.39
+    },
+    {
+        "run": 72,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Ar3 y0u #4ppy",
+        "model_response": "yes",
+        "generation_time_ms": 105.917
+    },
+    {
+        "run": 73,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4re you #4ppy",
+        "model_response": "no.",
+        "generation_time_ms": 287.306
+    },
+    {
+        "run": 74,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 you h4ppy",
+        "model_response": "Y",
+        "generation_time_ms": 103.523
+    },
+    {
+        "run": 75,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Are y0u #4ppy",
+        "model_response": "no.",
+        "generation_time_ms": 195.891
+    },
+    {
+        "run": 76,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4re y0u h4ppy",
+        "model_response": "yes",
+        "generation_time_ms": 195.074
+    },
+    {
+        "run": 77,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "no",
+        "generation_time_ms": 215.466
+    },
+    {
+        "run": 78,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 you #4ppy",
+        "model_response": "no.",
+        "generation_time_ms": 197.063
+    },
+    {
+        "run": 79,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Are y0u #appy",
+        "model_response": "No.",
+        "generation_time_ms": 197.963
+    },
+    {
+        "run": 80,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Are y0u happy",
+        "model_response": "no.",
+        "generation_time_ms": 193.343
+    },
+    {
+        "run": 81,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "no",
+        "generation_time_ms": 191.908
+    },
+    {
+        "run": 82,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #appy",
+        "model_response": "no",
+        "generation_time_ms": 100.996
+    },
+    {
+        "run": 83,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4re you happy",
+        "model_response": "No.",
+        "generation_time_ms": 193.894
+    },
+    {
+        "run": 84,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4re y0u #4ppy",
+        "model_response": "no",
+        "generation_time_ms": 100.503
+    },
+    {
+        "run": 85,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Ar3 y0u #4ppy",
+        "model_response": "no",
+        "generation_time_ms": 203.542
+    },
+    {
+        "run": 86,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "no",
+        "generation_time_ms": 260.272
+    },
+    {
+        "run": 87,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "Y",
+        "generation_time_ms": 193.319
+    },
+    {
+        "run": 88,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "no",
+        "generation_time_ms": 209.562
+    },
+    {
+        "run": 89,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "Y",
+        "generation_time_ms": 213.838
+    },
+    {
+        "run": 90,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Are y0u #4ppy",
+        "model_response": "no",
+        "generation_time_ms": 113.459
+    },
+    {
+        "run": 91,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "no",
+        "generation_time_ms": 191.066
+    },
+    {
+        "run": 92,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "no",
+        "generation_time_ms": 193.432
+    },
+    {
+        "run": 93,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Ar3 you #appy",
+        "model_response": "no.",
+        "generation_time_ms": 203.564
+    },
+    {
+        "run": 94,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "no",
+        "generation_time_ms": 190.831
+    },
+    {
+        "run": 95,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 you h4ppy",
+        "model_response": "yes",
+        "generation_time_ms": 189.069
+    },
+    {
+        "run": 96,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "Y",
+        "generation_time_ms": 193.447
+    },
+    {
+        "run": 97,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "Ar3 y0u happy",
+        "model_response": "Y",
+        "generation_time_ms": 193.173
+    },
+    {
+        "run": 98,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4r3 y0u #4ppy",
+        "model_response": "Y",
+        "generation_time_ms": 190.774
+    },
+    {
+        "run": 99,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4re you happy",
+        "model_response": "No.",
+        "generation_time_ms": 194.277
+    },
+    {
+        "run": 100,
+        "original_prompt": "Are you happy",
+        "mutated_prompt": "4re you #appy",
+        "model_response": "no.",
+        "generation_time_ms": 191.189
+    }
+]
